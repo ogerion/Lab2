@@ -1,0 +1,16 @@
+#pragma once
+#include "sequence/Ptr.h"
+#include "sequence/LinkedList.h"
+#include "sequence/LinkedListSequence.h"
+#include "sequence/Sequence.h"
+#include "sequence/ShrdPtr.h"
+#include "sequence/UnqPtr.h"
+#include "Student.h"
+#include "sorters/QuickSort.h"
+#include "sorters/HeapSort.h"
+#include "sorters/InsertionSort.h"
+#include "sorters/Compare.h"
+#include "sorters/ISorter.h"
+#include "dataloaders/csvDataLoader.h"
+#include "dataloaders/jsonDataLoader.h"
+
